@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Titulo</title>
 </head>
 <frameset cols="25%,*">
   <frame src="menu.jsp" name="menu">
